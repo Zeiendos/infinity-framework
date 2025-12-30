@@ -1,6 +1,8 @@
 # Framework of the Limitations on Infinity
 
 > **A Metaphysical Construction Kit for Worldbuilding, Narrative Design, and Cosmological Exploration**
+>
+> https://zeiendos.github.io/infinity-framework/
 > 
 > *Conceptual Framework by Zolton (Zeiendos)*
 
